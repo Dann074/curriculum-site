@@ -1,0 +1,36 @@
+body {
+    background-image: url(https://media.istockphoto.com/vectors/multicolors-mesh-gredient-abstract-colorful-pink-color-tone-eps10-vector-id1215065806?k=20&m=1215065806&s=612x612&w=0&h=VzK-YbsVIMZFSp55NQqsjUwHOVZo_uqvxZgw3OJ4F8I=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #8E43ED;
+    color: #FFFFFF;
+}
+
+.navbar {
+    margin-bottom: 2.5rem;
+    background-color: #4a4a4a;
+}
+
+.card {
+    background-color: #F0EC8B;
+    margin-bottom: 1.25rem;
+}
+
+.card-image {
+    padding: 1rem;
+}
+
+.footer {
+    margin-top: 1.25rem;
+    color:#FFFFFF;
+    background-color: #4a4a4a;
+}
+
+.footer a {
+    color: #F0EC8B;
+}
+
+.footer a:hover {
+    color:#8E43ED;
+}
+
